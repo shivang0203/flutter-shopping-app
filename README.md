@@ -1,4 +1,4 @@
-# fampay_assignment
+# Flutter Shopping App
 
 A new Flutter project.
 
